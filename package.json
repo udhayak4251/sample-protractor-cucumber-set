@@ -12,6 +12,7 @@
     "protractor-cucumber-framework": "^6.2.1"
   },
   "dependencies": {
+    "chai": "^4.2.0",
     "cucumber": "^6.0.5"
   }
 }

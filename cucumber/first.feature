@@ -8,3 +8,5 @@ Feature: Application launch
     And second value
     And click on button
     Then calculation should be happened
+
+
